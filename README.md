@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="banner__start.png" alt="Quote" width="49%"><img src="banner_end.gif" alt="Smoke" width="49%">
+</div>
+
+<br clear="right">
+
 # Описание
 
 Прототип сайта "Тануки", добавлены опции с отзывами с возможностью подписки. 
@@ -46,6 +52,3 @@ docker-compose exec backend python manage.py loaddata fixtures.json
 
 Остановить сервисы можно командой:
 docker-compose stop
-
-Автор проекта:
-Алферов Антон email: anton.alferov@icloud.com
